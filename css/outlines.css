@@ -71,6 +71,10 @@ p {
   border: 2px solid #f36dff;
 }
 
+img{
+  height: 350px;
+}
+
 p::before {
   color: #f36dff;
   content: "p";
